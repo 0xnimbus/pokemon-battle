@@ -1,0 +1,19 @@
+body{ 
+  text-align: center;
+}
+
+.char-div{
+  position: absolute;
+  left: 20%;
+}
+
+.pika-div{
+  position: absolute;
+  right: 20%;
+}
+
+.status{
+  position: absolute;
+  top: 40%;
+  left: 40%
+}
